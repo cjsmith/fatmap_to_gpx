@@ -12,7 +12,9 @@ This is a simple Python script that converts FATMAP JSON to a GPX so you can cre
 
 1. Save the contents of that request to a JSON file
 
-1. Run python3 fatmap_json_to_gpx.py FILE_NAME.json
+1. Run python fatmap_json_to_gpx.py JSON_FILE
+
+1. You should now see that a .gpx file with the same name has been written
 
 ## Help
 
